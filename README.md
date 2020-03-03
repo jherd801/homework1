@@ -1,7 +1,8 @@
 # homework1
 
-<!-- Corrected <title> content
+<!-- 
 
+Corrected <title> content
 Corrected and added semantic elements (<header>, <footer>, <aside>, <section>, <article>)
 Corrected relative references to all images
 Added alt="" attributes to all images
